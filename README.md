@@ -21,7 +21,7 @@ Rajvinder Kaur Dadiala • Data Analyst • Analytics Strategist
 
 ┌─[rajvinder@analytics-terminal]─[~/stats]
 └──╼ $ ls -la
-drwxr-xr-x  12+ years of professional experience
+drwxr-xr-x  7+ years of professional experience
 drwxr-xr-x  Multiple Fortune 500 clients served
 -rw-r--r--  40% reduction in manual reporting time
 -rw-r--r--  15% improvement in SLA compliance
@@ -189,19 +189,13 @@ print(f"Total Impact: {sum(achievement_matrix.values())}")
 
 </div>
 
-I am a **results-driven Data Analyst** with over **12 years of progressive experience** transforming raw data into strategic business intelligence across multiple Fortune 500 organizations. My career has been defined by a relentless commitment to **data accuracy**, **operational excellence**, and **stakeholder empowerment** through actionable insights.
+I am a **results-driven Senior Analyst** with over **7 years of progressive experience** transforming raw data into strategic business intelligence. My career has been defined by a relentless commitment to **data accuracy**, **operational excellence**, and **stakeholder empowerment** through actionable insights.
 
-Currently serving as a **Junior Data Analyst at Fullstack Labs**, I leverage advanced analytics tools including **Python (Pandas, NumPy, Matplotlib)**, **SQL**, **Power BI**, and **Tableau** to build interactive dashboards that track operational KPIs and drive process improvements. My work directly supports cross-functional teams in engineering and business operations, translating complex analytical findings into strategic recommendations that enhance organizational performance.
-
-My professional journey spans **12+ years across three major technology consulting firms**, where I've consistently delivered measurable impact:
-
-**🎯 At Fullstack Labs (Current):** I collect, clean, and validate structured and unstructured datasets to support analytical reporting and predictive modeling. My interactive Power BI dashboards track operational KPIs for client projects, while SQL automation workflows have streamlined recurring reporting processes. I collaborate extensively with engineering and business teams to translate data insights into process improvements.
+My professional journey spans **7+ years across three major technology consulting firms**, where I've consistently delivered measurable impact:
 
 **🏆 At Accenture (7+ Years):** I spearheaded data-driven process improvement initiatives across multiple global client accounts, achieving a **15% improvement in SLA compliance**. My Excel-based automation frameworks reduced manual reporting time by **40%**, freeing teams to focus on strategic analysis. I conducted comprehensive trend and variance analysis to identify performance bottlenecks and partnered with senior stakeholders to present dashboards and operational forecasts supporting business continuity. Additionally, I mentored new analysts on data validation, reporting accuracy, and KPI tracking, significantly enhancing team productivity.
 
-**💼 At Zensar Technologies (3 Years):** I managed client data requests with high accuracy in report generation and service ticket analysis. Supporting daily and weekly MIS reporting using Excel and SQL, I collaborated with cross-functional teams on root cause analysis for data anomalies and contributed to identifying recurring issues.
-
-My educational foundation includes a **Master of Science in Data Analytics from Monroe University**, where I developed advanced competencies in statistical modeling, machine learning fundamentals, and data visualization best practices. This academic rigor, combined with real-world experience, positions me uniquely to bridge the gap between technical analysis and business strategy.
+My educational foundation includes a **Master of Science in Computer Science from Monroe University**, where I developed advanced competencies in data modeling, data visualization best practices. This academic rigor, combined with real-world experience, positions me uniquely to bridge the gap between technical analysis and business strategy.
 
 **Core Competencies:**
 - **Advanced Analytics:** Data cleaning, wrangling, trend analysis, variance analysis, predictive modeling
@@ -227,27 +221,6 @@ I am passionate about leveraging data to solve complex business challenges and a
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 Junior Data Analyst
-**`Fullstack Labs • Indianapolis, IN (Remote) • Aug 2025 – Present`**
-
-<img src="https://img.shields.io/badge/🤖_Current_Role-667eea?style=flat-square&labelColor=2C3E50"/>
-
-**Driving Analytics Excellence Through Data-Driven Insights**
-
-- **Data Engineering & Validation:** Collect, clean, and validate structured and unstructured datasets to support analytical reporting and predictive modeling initiatives, ensuring data integrity across multiple client projects
-
-- **Dashboard Development:** Build and maintain interactive dashboards and visualizations in **Power BI** to track operational KPIs and client project metrics, enabling real-time decision-making for stakeholders
-
-- **SQL Automation:** Leverage advanced **SQL queries** to extract business-critical insights from relational databases and automate recurring reporting workflows, reducing manual effort by significant margins
-
-- **Cross-Functional Collaboration:** Partner with engineering and business teams to translate analytical findings into strategic process improvements, bridging the gap between technical analysis and business strategy
-
-- **Predictive Analytics:** Support predictive modeling initiatives using Python libraries (Pandas, NumPy) to forecast trends and identify optimization opportunities
-
-**Technologies:** Python (Pandas, NumPy, Matplotlib), SQL Server, Power BI, Excel Advanced, ServiceNow
-
-</td>
-<td width="50%" valign="top">
 
 ### 🏢 Senior Analyst
 **`Accenture • India • Feb 2016 – Aug 2023`**
@@ -275,46 +248,22 @@ I am passionate about leveraging data to solve complex business challenges and a
 <tr>
 <td width="50%" valign="top">
 
-### 🔧 Client Support Analyst
-**`Zensar Technologies • India • Apr 2013 – Jan 2016`**
-
-<img src="https://img.shields.io/badge/⚙️_Foundation_Years-F39C12?style=flat-square&labelColor=2C3E50"/>
-
-**Building Analytics Foundation Through Client-Centric Excellence**
-
-- **Data Request Management:** Managed client data requests with high accuracy in report generation and service ticket analysis, establishing reputation for reliability and precision
-
-- **MIS Reporting Support:** Supported daily and weekly MIS reporting, leveraging **Excel and SQL queries** for tracking performance and resolution trends across multiple client accounts
-
-- **Cross-Functional Collaboration:** Collaborated with cross-functional teams to identify recurring issues and contributed to root cause analysis for data anomalies, improving overall data quality
-
-- **Process Documentation:** Developed comprehensive documentation for reporting procedures, ensuring consistency and knowledge transfer across team members
-
-- **Quality Assurance:** Implemented data validation checks to ensure accuracy in all client-facing reports and dashboards
-
-**Technologies:** MS Excel, SQL (MySQL), ServiceNow, Data Validation Tools
-
-</td>
-<td width="50%" valign="top">
 
 ### 📈 Career Progression Summary
 
 <img src="https://img.shields.io/badge/🎓_Career_Evolution-E74C3C?style=flat-square&labelColor=2C3E50"/>
 
-**12+ Years of Progressive Growth in Analytics**
+**7+ Years of Progressive Growth in Analytics**
 
 ```yaml
 Career Trajectory:
-  2013-2016: Client Support Analyst
-    Focus: Data accuracy, MIS reporting, client service
+  2015-2016: Customer Service Associate
+    Focus: Customer Service, Coaching/Training, client service
     
   2016-2023: Senior Analyst
     Focus: Process optimization, automation, stakeholder management
     
-  2025-Present: Junior Data Analyst
-    Focus: Advanced analytics, predictive modeling, dashboard development
-
-Key Achievements:
+  Key Achievements:
   - 15% improvement in SLA compliance
   - 40% reduction in manual reporting time
   - Multiple client accounts managed successfully
